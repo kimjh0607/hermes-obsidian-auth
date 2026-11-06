@@ -1,0 +1,14 @@
+.env
+.env.*
+*.json
+*.conf
+*.log
+*.pem
+*.key
+*.tar*
+*.zip
+credentials/
+backups/
+Vault/
+.obsidian/
+__pycache__/
